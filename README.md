@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[!["Linkedin"](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png | height=100)](https://www.linkedin.com/in/fernando-may-fuentes-80b62a176/)
+[!["Linkedin"](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png | width=100)](https://www.linkedin.com/in/fernando-may-fuentes-80b62a176/)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://www.buymeacoffee.com/maydarrell)
