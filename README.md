@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[!["Buy Me A Coffee"](https://play.google.com/store/apps/details?id=com.linkedin.android&hl=es&gl=US)](https://www.linkedin.com/in/fernando-may-fuentes-80b62a176/)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://www.buymeacoffee.com/maydarrell)
