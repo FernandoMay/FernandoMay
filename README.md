@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[!["Linkedin"](https://es.m.wikipedia.org/wiki/Archivo:LinkedIn_Logo.svg)](https://www.linkedin.com/in/fernando-may-fuentes-80b62a176/)
+[!["Linkedin"](https://style.shockvisual.net/6-tips-para-ser-atractivo-en-linkedin/)](https://www.linkedin.com/in/fernando-may-fuentes-80b62a176/)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://www.buymeacoffee.com/maydarrell)
