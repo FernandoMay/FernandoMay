@@ -59,13 +59,14 @@ Here are some ideas to get you started:
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernandoMay&theme=vue"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadikachmar3&layout=compact&show_icons=true&theme=radical"/>
+ 
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=FernandoMay&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoMay&theme=vue" />
+	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMay&layout=compact&show_icons=true"/>
+	<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoMay&theme=vue" /> -->
 </p>
 
 ### ✍️Random Dev Quote
