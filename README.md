@@ -1,5 +1,9 @@
-<h1 align="center">Hola 👋, soy Fernando May (a.k.a. Miami Codes)</h1>
-<h3 align="center">🚀 Desarrollador de apps | Educador | Creador de soluciones con impacto real</h3>
+<h1 align="center">Hola 👋, soy Fernando May</h1>
+<h3 align="center">🚀 Desarrollador de apps | Educador | Creador de tecnología con impacto real</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FernandoMay&label=Profile%20views&color=0e75b6&style=flat" alt="FernandoMay" />
@@ -8,94 +12,80 @@
 ---
 
 ### 💡 Sobre mí
-Soy un desarrollador de software con más de 5 años de experiencia construyendo productos móviles, multiplataforma y servicios digitales. Me enfoco en el desarrollo de aplicaciones con impacto social, educación financiera, salud personalizada y accesibilidad, integrando IA, cloud y un diseño centrado en el usuario.
 
-- 📱 **Especialista en Flutter, iOS (Swift, Objective-C)** y apps modernas estilo TikTok, Fintech, eHealth
-- ☁️ **Experiencia en Firebase, Supabase, GCP, AWS**, arquitecturas limpias (MVVM, Bloc, Provider)
-- 🎓 Mentor, educador y promotor del acceso a la tecnología en comunidades jóvenes y vulnerables
-- 🧠 Integrando **IA con TensorFlow**, chatbots y análisis de emociones en plataformas reales
-- ✨ Fundador de **MIRAI**, una plataforma de oportunidades para jóvenes
-- 🌎 Hablo código, español y un poco de caos creativo
+Soy un desarrollador mobile multiplataforma con +5 años de experiencia creando productos digitales que combinan tecnología, diseño y propósito social. Desde sistemas de punto de venta hasta plataformas educativas con IA, mi enfoque está en construir soluciones útiles, modernas y accesibles.
 
----
-
-### 🌐 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-may-fuentes-80b62a176/)
-[![Twitter](https://img.shields.io/twitter/follow/FernandoMay13?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FernandoMay13)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fmay130)
-[![Buy Me a Coffee](https://img.shields.io/badge/-BuyMeACoffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/maydarrell)
-[![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maydarrell)
+- 📱 Especialista en **Flutter**, **Swift**, **Jetpack Compose**, **iOS/Android nativo**
+- 🧠 Apasionado por la **IA aplicada a educación, salud y finanzas**
+- ☁️ Experiencia con **Firebase**, **Supabase**, **GCP**, **AWS**
+- 🎨 UI/UX first: diseño centrado en el usuario, limpio y funcional
+- 💼 Mentor, creador y constructor de comunidades con propósito
 
 ---
 
-### 🧠 Tecnologías y herramientas
-
-#### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-#### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### Cloud & DevOps
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
-#### DBs & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+### 🌎 Encuéntrame en:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-may-fuentes-80b62a176/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/FernandoMay13)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fmay130)
+[![Buy Me a Coffee](https://img.shields.io/badge/BuyMeaCoffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/maydarrell)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://patreon.com/maydarrell)
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+|---------|-------------|-------------|--------|
+| 🧬 [**MIRAI**](https://github.com/FernandoMay/mirai) | Plataforma que empodera a jóvenes con IA, mentoría y recursos. | Flutter, Supabase, TensorFlow | [→ Ver MIRAI](https://github.com/FernandoMay/mirai) |
+| 🍬 [**CandyPoint**](https://github.com/FernandoMay/candypoint) | Sistema POS moderno para dulcerías y microempresas. | Flutter, Provider, SharedPreferences | [→ Ver CandyPoint](https://github.com/FernandoMay/candypoint) |
+| 💳 [**EasyPack**](https://github.com/FernandoMay/easypack) | App para gestionar tarjetas de forma offline y segura. | Flutter puro, sin dependencias externas | [→ Ver EasyPack](https://github.com/FernandoMay/easypack) |
+| 💰 [**FinanzasIA**](https://github.com/FernandoMay/finanzas-educacion) | Educación financiera gamificada con IA para jóvenes. | Flutter, Gemini API, Firebase | [→ Ver FinanzasIA](https://github.com/FernandoMay/finanzas-educacion) |
+| ☀️ [**WeatherNow Challenge**](https://github.com/FernandoMay/weathernow) | Reto iOS + Android para una app meteorológica smart. | Swift UIKit + Compose MVVM | [→ Ver WeatherNow](https://github.com/FernandoMay/weathernow) |
+
+---
+
+### 🧠 Stack principal
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+---
+
+### 📊 Estadísticas GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FernandoMay&show_icons=true&theme=vue" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMay&layout=compact&theme=vue" />
-</p>
-
-### 🧩 Github Activity Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=FernandoMay&theme=vue" alt="activity graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoMay&show_icons=true&theme=vue" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMay&layout=compact&theme=vue" width="48%"/>
 </p>
 
 ---
 
-### 📌 Proyectos Destacados
-- 💼 **MIRAI**: Plataforma de mentoría, IA y oportunidades para jóvenes
-- 🍬 **CandyPoint POS**: Sistema de punto de venta con diseño Flutter moderno
-- 💳 **EasyPack**: Gestor de tarjetas y envíos en apps sin dependencias externas
-- 🌎 **Educación financiera con IA**: Experimentos con contenido educativo y gamificado
+### 📈 Actividad Reciente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FernandoMay&theme=vue&hide_border=true&area=true" />
+</p>
 
 ---
 
-### 📖 Dev Quote
-> "El software no cambia el mundo. Pero las personas que lo crean, sí." — El Miami.
+### ✨ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" />
+</p>
 
 ---
 
-### ⭐ Apoya mi trabajo
-Si algo de lo que hago te inspira o ayuda, considera apoyar para seguir creando herramientas con impacto 💙
-
-[![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/maydarrell)
-[![Patreon](https://img.shields.io/badge/❤️%20Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maydarrell)
-
----
+### 🙌 ¡Gracias por visitar mi perfil!
 
 <div align="center">
-🧠 Transformando ideas en tecnología útil, con propósito y corazón.
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200px" />
+  <br><br>
+  ⭐ Si alguno de mis proyectos te sirvió, ¡dale una estrella!
 </div>
