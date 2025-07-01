@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Fernando May (a.k.a. Miami Codes)</h1>
+<h1 align="center">Hola 👋, soy Fernando May</h1>
 <h3 align="center">🚀 Desarrollador de apps | Educador | Creador de soluciones con impacto real</h3>
 
 <p align="center">
@@ -72,29 +72,10 @@ Soy un desarrollador de software con más de 5 años de experiencia construyendo
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMay&layout=compact&theme=vue" />
 </p>
 
-### 🧩 Github Activity Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=FernandoMay&theme=vue" alt="activity graph"/>
-</p>
-
-## 👨🏻‍💻 Laptop in use & Favorite Terminal
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
-
-## 🛒 Apps on Store
-[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7703305844118303242) [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/frontier-crypto-defi-wallet/id1482380988)
-
-## 🎵 Music apps I use
-<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
-
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=FernandoMay&theme=minimal"/>
-</p>
-
 ---
 
 ### 📌 Proyectos Destacados
-- 💼 **MIRAI**: Plataforma de mentoría, IA y oportunidades para jóvenes
+- 💼 **MIRAI**: Plataforma de mentoría, IA y oportunidades para jóvenes 
 - 🍬 **CandyPoint**: Sistema de punto de venta con diseño Flutter moderno
 - 💳 **EasyPack**: Gestor de tarjetas y envíos en apps sin dependencias externas
 - 🌎 **Educación financiera con IA**: Experimentos con contenido educativo y gamificado
