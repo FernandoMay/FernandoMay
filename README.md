@@ -84,7 +84,7 @@ Soy un desarrollador de software con más de 5 años de experiencia construyendo
 ---
 
 ### 📖 Dev Quote
-> _"El software no cambia el mundo. Pero las personas que lo crean, sí."_ — tú, probablemente.
+> "El software no cambia el mundo. Pero las personas que lo crean, sí." — El Miami.
 
 ---
 
@@ -97,5 +97,5 @@ Si algo de lo que hago te inspira o ayuda, considera apoyar para seguir creando 
 ---
 
 <div align="center">
-🧠 _Transformando ideas en tecnología útil, con propósito y corazón._
+🧠 Transformando ideas en tecnología útil, con propósito y corazón.
 </div>
