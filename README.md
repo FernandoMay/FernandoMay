@@ -25,10 +25,10 @@ Soy un desarrollador de software con más de 5 años de experiencia construyendo
 
 ### 🌐 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-may-fuentes-80b62a176/)
-[![Twitter](https://img.shields.io/twitter/follow/FernandoMay13?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FernandoMay13)
+[![Twitter](https://img.shields.io/twitter/follow/fmayf13?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fmayf13)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fmay130)
 [![Buy Me a Coffee](https://img.shields.io/badge/-BuyMeACoffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/maydarrell)
-[![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maydarrell)
+[![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/fernandomay)
 
 ---
 
