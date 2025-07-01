@@ -93,7 +93,7 @@ Soy un desarrollador de software con más de 5 años de experiencia construyendo
 ---
 
 ### ⭐ Apoya mi trabajo
-Si algo de lo que hago te inspira o ayuda, considera apoyar para seguir creando herramientas con impacto 💙
+Si algo de lo que hago te inspira o ayuda, considera apoyar para seguir creando soluciones de impacto 💙
 
 [![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/maydarrell)
 [![Patreon](https://img.shields.io/badge/❤️%20Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/maydarrell)
