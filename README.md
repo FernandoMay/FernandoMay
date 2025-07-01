@@ -72,6 +72,11 @@ Soy un desarrollador de software con más de 5 años de experiencia construyendo
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMay&layout=compact&theme=vue" />
 </p>
 
+### 🧩 Github Activity Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=FernandoMay&theme=vue" alt="activity graph"/>
+</p>
+
 ---
 
 ### 📌 Proyectos Destacados
