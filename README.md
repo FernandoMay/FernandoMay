@@ -14,6 +14,7 @@
   <a href="https://fmayf.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-fmayf.netlify.app-0A0A0A?style=for-the-badge&logo=google-chrome" alt="Portfolio">
   </a>
+  <a href="https://orcid.org/0009-0002-3953-5224"> <img src="https://img.shields.io/badge/ORCID-0009--0002--3953--5224-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"> </a>
 </p>
 
 <p align="center">
@@ -283,18 +284,13 @@ I contribute through:
 
 ## 📊 GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FernandoMay&show_icons=true&theme=vue" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMay&layout=compact&theme=vue" />
-</p>
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FernandoMay&show_icons=true&theme=vue" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMay&layout=compact&theme=vue" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoMay&theme=vue" alt="GitHub streak"> </p>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg"> <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics"> </picture>
 
 </div>
 
